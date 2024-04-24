@@ -13,7 +13,7 @@ I specialize in Cloud Computing and DevOps, crafting efficient and scalable solu
 ### Intern at Here Technologies
 - Contributed to a dynamic web scraping project, I leverage Selenium to extract intricate details from specific stores. Navigating through dynamic website structures, I ensure comprehensive data retrieval, enhancing my skills in Selenium automation.
 ### Intern at Agbe Technologies
-- As a Solutions Architect Intern at Agbe Technologie, I spearheaded a transformative project, cloning the company's AWS architecture from an existing Aure framework. This internship allowed me to apply architectural expertise, bridging the transition seamlessly and contributing to the company's technological evolution.
+- As a Solutions Architect Intern at Agbe Technologie, I spearheaded a transformative project, cloning the company's AWS architecture from an existing Azure framework. This internship allowed me to apply architectural expertise, bridging the transition seamlessly and contributing to the company's technological evolution.
 ## 🛠️ Skills
 - **Programming Languages:** Java, Python, C
 - **Web Technologies:** HTML, CSS, React
